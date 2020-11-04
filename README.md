@@ -1,2 +1,2 @@
 # multifariousCode
-Code snippets
+Code snippets to make things easier.
